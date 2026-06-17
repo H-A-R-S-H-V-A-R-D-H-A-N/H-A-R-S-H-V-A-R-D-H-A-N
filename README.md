@@ -1,24 +1,47 @@
-<h1 align="center">Hi 👋, I'm Harshvardhan</h1>
-<h3 align="center">Bug Bounty Hunter | Security Researcher | Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=400&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Harshvardhan+Singh+Rathore" alt="Name" />
+</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hunting+Bugs;Securing+Systems;Building+Tools;Exploring+the+Unknown" alt="Typing SVG" />
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=400&size=30&pause=1000&color=8A0303&center=true&vCenter=true&width=800&lines=Bug+Bounty+Hunter;Security+Researcher;Developer" alt="Roles" />
+</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H-A-R-S-H-V-A-R-D-H-A-N&show_icons=true&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-A-R-S-H-V-A-R-D-H-A-N&layout=compact&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=400&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=My+Work" alt="My Work" />
+</h2>
+
+<div align="center">
+  <a href="https://github.com/H-A-R-S-H-V-A-R-D-H-A-N/bugkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=H-A-R-S-H-V-A-R-D-H-A-N&repo=bugkit&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" width="48%" alt="bugkit" />
   </a>
-</p>
+  <a href="https://github.com/H-A-R-S-H-V-A-R-D-H-A-N/HOLE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=H-A-R-S-H-V-A-R-D-H-A-N&repo=HOLE&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" width="48%" alt="HOLE" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-A-R-S-H-V-A-R-D-H-A-N&bg_color=000000&color=8A0303&line=8A0303&point=FFFFFF&hide_border=false&border_color=222222&title_color=8A0303" width="98%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=400&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Activity" alt="Activity" />
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-A-R-S-H-V-A-R-D-H-A-N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-A-R-S-H-V-A-R-D-H-A-N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-A-R-S-H-V-A-R-D-H-A-N&theme=tokyonight&bg_color=0D1117&hide_border=true" width="98%" alt="Activity Graph" />
-</p>
-
-<h3 align="center">My GitHub Contributions</h3>
-<p align="center">
-  <!-- The Snake will appear here once the GitHub Action runs -->
+  <!-- The Bloody Snake will appear here once the GitHub Action runs -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H-A-R-S-H-V-A-R-D-H-A-N/H-A-R-S-H-V-A-R-D-H-A-N/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H-A-R-S-H-V-A-R-D-H-A-N/H-A-R-S-H-V-A-R-D-H-A-N/output/github-contribution-grid-snake.svg">
