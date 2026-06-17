@@ -43,7 +43,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-A-R-S-H-V-A-R-D-H-A-N&bg_color=000000&color=8A0303&line=8A0303&point=FFFFFF&hide_border=false&border_color=222222&title_color=8A0303" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-A-R-S-H-V-A-R-D-H-A-N&bg_color=000000&color=AAAAAA&line=8A0303&point=FFFFFF&hide_border=false&border_color=222222&title_color=8A0303" width="98%" alt="Activity Graph" />
 </div>
 
 <br/>
