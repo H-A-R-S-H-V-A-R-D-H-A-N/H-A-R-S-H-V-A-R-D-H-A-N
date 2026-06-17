@@ -1,0 +1,111 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes moveRight {
+      from { transform: translateX(0); }
+      to { transform: translateX(800px); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    
+    .term-bg { fill: #0D1117; }
+    .term-header { fill: #161B22; }
+    .btn-close { fill: #FF5F56; }
+    .btn-min { fill: #FFBD2E; }
+    .btn-max { fill: #27C93F; }
+    
+    .txt-prompt { fill: #39FF14; font-weight: bold; font-family: 'Courier New', monospace; font-size: 16px; }
+    .txt-cmd { fill: #FFFFFF; font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold; }
+    .txt-out { fill: #8B949E; font-family: 'Courier New', monospace; font-size: 16px; }
+    .txt-highlight { fill: #58A6FF; font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold;}
+    
+    .cover { fill: #0D1117; }
+    
+    /* Animations */
+    .c1 { animation: moveRight 0.5s steps(6, end) forwards; animation-delay: 1s; }
+    .out1 { opacity: 0; animation: fadeIn 0.1s forwards; animation-delay: 1.8s; }
+    
+    .c2 { animation: moveRight 1s steps(12, end) forwards; animation-delay: 2.5s; }
+    .out2 { opacity: 0; animation: fadeIn 0.1s forwards; animation-delay: 3.8s; }
+    
+    .c3 { animation: moveRight 1s steps(14, end) forwards; animation-delay: 4.5s; }
+    .out3 { opacity: 0; animation: fadeIn 0.1s forwards; animation-delay: 5.8s; }
+    
+    .c4 { animation: moveRight 1.5s steps(20, end) forwards; animation-delay: 6.5s; }
+    .out4 { opacity: 0; animation: fadeIn 0.1s forwards; animation-delay: 8.5s; }
+
+    .cursor-final { opacity: 0; fill: #39FF14; font-family: 'Courier New', monospace; font-size: 16px; animation: fadeIn 0.1s forwards 9.5s, blink 1s step-end infinite 9.5s; }
+    
+  </style>
+
+  <!-- Window Frame -->
+  <rect width="800" height="420" rx="10" class="term-bg" />
+  <rect width="800" height="30" rx="10" class="term-header" />
+  <rect y="20" width="800" height="10" class="term-header" />
+  
+  <!-- Mac Buttons -->
+  <circle cx="20" cy="15" r="6" class="btn-close" />
+  <circle cx="40" cy="15" r="6" class="btn-min" />
+  <circle cx="60" cy="15" r="6" class="btn-max" />
+  
+  <text x="340" y="20" fill="#8B949E" font-family="sans-serif" font-size="12">harshvardhan@bugkit: ~</text>
+
+  <!-- Line 1 -->
+  <g transform="translate(20, 60)">
+    <text><tspan class="txt-prompt">harshvardhan@bugkit:~$ </tspan><tspan class="txt-cmd">whoami</tspan></text>
+    <rect x="220" y="-14" width="580" height="20" class="cover c1" />
+  </g>
+  <g transform="translate(20, 85)" class="out1">
+    <text class="txt-highlight">Harshvardhan Singh Rathore</text>
+  </g>
+
+  <!-- Line 2 -->
+  <g transform="translate(20, 120)">
+    <text class="out1"><tspan class="txt-prompt">harshvardhan@bugkit:~$ </tspan><tspan class="txt-cmd">cat role.txt</tspan></text>
+    <rect x="220" y="-14" width="580" height="20" class="cover c2" />
+  </g>
+  <g transform="translate(20, 145)" class="out2">
+    <text class="txt-out">> Bug Bounty Hunter | Security Researcher | Go Developer</text>
+  </g>
+
+  <!-- Line 3 -->
+  <g transform="translate(20, 180)">
+    <text class="out2"><tspan class="txt-prompt">harshvardhan@bugkit:~$ </tspan><tspan class="txt-cmd">ls -la /skills</tspan></text>
+    <rect x="220" y="-14" width="580" height="20" class="cover c3" />
+  </g>
+  <g transform="translate(20, 205)" class="out3">
+    <text class="txt-out">drwxr-xr-x  Web Exploitation (IDOR, XSS, SSRF)</text>
+  </g>
+  <g transform="translate(20, 225)" class="out3">
+    <text class="txt-out">drwxr-xr-x  Reconnaissance &amp; Attack Surface Mapping</text>
+  </g>
+  <g transform="translate(20, 245)" class="out3">
+    <text class="txt-out">-rwxr-xr-x  Tooling &amp; Automation (Golang/Python)</text>
+  </g>
+  <g transform="translate(20, 265)" class="out3">
+    <text class="txt-out">drwxr-xr-x  Cloud Infrastructure Analysis</text>
+  </g>
+
+  <!-- Line 4 -->
+  <g transform="translate(20, 300)">
+    <text class="out3"><tspan class="txt-prompt">harshvardhan@bugkit:~$ </tspan><tspan class="txt-cmd">./execute_payload.sh</tspan></text>
+    <rect x="220" y="-14" width="580" height="20" class="cover c4" />
+  </g>
+  <g transform="translate(20, 325)" class="out4">
+    <text fill="#FFBD2E" font-family="'Courier New', monospace" font-size="16px" font-weight="bold">[+] Connecting to target...</text>
+  </g>
+  <g transform="translate(20, 345)" class="out4">
+    <text fill="#27C93F" font-family="'Courier New', monospace" font-size="16px" font-weight="bold">[+] Access Granted. Have a great day.</text>
+  </g>
+
+  <!-- Line 5 (Final Prompt) -->
+  <g transform="translate(20, 385)">
+    <text class="out4"><tspan class="txt-prompt">harshvardhan@bugkit:~$ </tspan><tspan class="cursor-final">█</tspan></text>
+  </g>
+
+</svg>
