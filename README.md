@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-A-R-S-H-V-A-R-D-H-A-N&show_icons=true&include_all_commits=true&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=H-A-R-S-H-V-A-R-D-H-A-N&show_icons=true&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-A-R-S-H-V-A-R-D-H-A-N&layout=compact&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
@@ -53,15 +53,5 @@
 </h2>
 
 <div align="center">
-  <pre style="background: #000000; border: 1px solid #333333; padding: 15px; border-radius: 5px; color: #AAAAAA; width: 80%; text-align: left; font-family: monospace;">
-<span style="color: #8A0303; font-weight: bold;">root@haunted-system:~$</span> cat about.txt
-
-I'm a passionate security researcher who loves hunting bugs and building tools. 
-Beyond the code and the shadows, I believe in making the internet a safer place for everyone. 
-I'm always learning, always growing, and always looking for the next challenge. 
-
-Let's connect and build something amazing together.
-
-<span style="color: #8A0303; font-weight: bold;">root@haunted-system:~$</span> █
-  </pre>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=400&size=25&pause=2000&color=AAAAAA&center=true&vCenter=true&width=800&lines=I'm+a+security+researcher+who+loves+hunting+bugs.;Beyond+the+shadows,+I+make+the+internet+safer.;Always+learning.+Always+watching.;Let's+connect+and+build+something+terrifying." alt="About text" />
 </div>
