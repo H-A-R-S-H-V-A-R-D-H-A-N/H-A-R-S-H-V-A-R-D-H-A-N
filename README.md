@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-A-R-S-H-V-A-R-D-H-A-N&show_icons=true&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=H-A-R-S-H-V-A-R-D-H-A-N&show_icons=true&include_all_commits=true&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-A-R-S-H-V-A-R-D-H-A-N&layout=compact&bg_color=000000&title_color=8A0303&text_color=AAAAAA&icon_color=8A0303&border_color=222222&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
@@ -53,5 +53,5 @@
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=400&size=25&pause=2000&color=AAAAAA&center=true&vCenter=true&width=800&lines=I'm+a+security+researcher+who+loves+hunting+bugs.;Beyond+the+shadows,+I+make+the+internet+safer.;Always+learning.+Always+watching.;Let's+connect+and+build+something+terrifying." alt="About text" />
+  <img src="https://raw.githubusercontent.com/H-A-R-S-H-V-A-R-D-H-A-N/H-A-R-S-H-V-A-R-D-H-A-N/main/about.svg" alt="About text" />
 </div>
